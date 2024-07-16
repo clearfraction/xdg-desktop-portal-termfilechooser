@@ -1,8 +1,8 @@
 Name     : xdg-desktop-portal-termfilechooser
-Version  : 71dc7ab06751e51de392b9a7af2b50018e40e062
+Version  : a3736ca9b3e9c5b19afabfc99f81fbde70a7e066
 Release  : 1
-URL      : https://github.com/GermainZ/xdg-desktop-portal-termfilechooser
-Source0  : https://github.com/GermainZ/xdg-desktop-portal-termfilechooser/archive/refs/heads/main.tar.gz
+URL      : https://github.com/boydaihungst/xdg-desktop-portal-termfilechooser
+Source0  : https://github.com/boydaihungst/xdg-desktop-portal-termfilechooser/archive/refs/heads/main.tar.gz
 Summary  : No detailed summary available
 Group    : Development/Tools
 License  : MIT
