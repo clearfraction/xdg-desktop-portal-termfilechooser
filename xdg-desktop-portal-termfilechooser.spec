@@ -61,3 +61,4 @@ mv contrib/{fzf-wrapper.sh,lf-wrapper.sh,vifm-wrapper.sh,yazi-wrapper.sh} %{buil
 /usr/share/xdg-desktop-portal-termfilechooser/fzf-wrapper.sh
 /usr/share/xdg-desktop-portal-termfilechooser/lf-wrapper.sh
 /usr/share/xdg-desktop-portal-termfilechooser/yazi-wrapper.sh
+/usr/share/xdg-desktop-portal-termfilechooser/vifm-wrapper.sh
